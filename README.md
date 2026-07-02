@@ -34,10 +34,8 @@
 ```
 git clone https://github.com/Layer-6/sqliv.git
 cd sqliv
-
 unzip sqlivi.zip -d sqliv
 rm -rf sqlivi.zip
-
 ```
 
 
@@ -104,7 +102,6 @@ python3 sqliv.py -t example.com --level 3 --threads 20 --timeout 15 -o result.js
     threads=10,     **#Concurrent threads**
     user_agent=None **#Custom User-Agent**
 
+**By Red**
+***Telegram:*** t.me/RedRootedGhosT
 
-
-# By Red
-Telegram: t.me/RedRootedGhosT
