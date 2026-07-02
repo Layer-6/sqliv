@@ -34,8 +34,8 @@
 ```
 git clone https://github.com/Layer-6/sqliv.git
 cd sqliv
-unzip sqlivi.zip -d sqliv
-rm -rf sqlivi.zip
+unzip sqliv.zip
+python3 sqliv.py -help
 ```
 
 
